@@ -1,0 +1,20 @@
+[ 
+    { 
+        "Brand": "Nike", 
+        "model": "Jordan 1 Retro High Dark Mocha",
+        "price": 600, 
+        "image": "images/dark mocha.webp"
+    },
+    { 
+        "Brand": "Nike", 
+        "model": "Nike Dunk Low Retro Pandas",
+        "price": "250", 
+        "image": "images/pandas.png"
+    },
+    {
+        "Brand": "Adidas", 
+        "model": "Adidas Yeezy Slide Onyx",
+        "price": "200", 
+        "image": "images/yeezy slide onyx.png"
+    } 
+]

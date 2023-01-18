@@ -1,0 +1,72 @@
+
+@import url('https://fonts.cdnfonts.com/css/raleway-5');
+@import url('https://fonts.cdnfonts.com/css/merriweather');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@500;600&family=Pacifico&display=swap'); 
+
+.nav-item-1, .nav-item-2, .nav-item-3 {
+    font-family: 'Raleway', sans-serif;
+}
+.nav-item-3{
+    text-decoration: underline;
+}
+.contact-info{  
+    color: black;
+    border: 1px solid black;
+    border-radius: 3px; 
+    height: 300px;
+    width: 800px;
+    margin: 20px auto; 
+    padding-top: 10px; 
+}
+
+.info{ 
+    padding-left: 500px; 
+    padding-top: 60px; 
+}
+
+.RPL { 
+    margin-left: 100px;
+    margin-top: -65px;
+    object-fit: cover;
+}
+
+.info-box-content h3{ 
+    text-align: center; 
+    font-size: 30px; 
+}
+
+.container h1   { 
+    text-align: center; 
+    display: block; 
+}
+
+.form-group{ 
+    display: block;
+    text-align: center; 
+}
+
+.form-control-name{ 
+    width: 400px; 
+    height: 25px; 
+    margin: 5px; 
+}
+
+.form-control-email{ 
+    width: 400px; 
+    height: 25px; 
+    margin: 5px; 
+}
+
+.form-control-message{ 
+    width: 815px;
+    height: 200px; 
+}
+
+.submit-button{
+    position: relative; 
+    top: 10px; 
+    left: 313px; 
+    height: 30px; 
+    width: 100px;
+}
+
